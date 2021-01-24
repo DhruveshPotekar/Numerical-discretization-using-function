@@ -6,6 +6,9 @@ The function is\
 The computation of the function was done at x=pi/3 and gridspace of dx ranging from pi/4 to pi/400.\
 I created fuctions of 1st, 2nd and 4th order of approximation and called them in the main code.
 
+
+
 The Result is\ 
-<img src="https://user-images.githubusercontent.com/74448981/105629482-3a711a80-5e69-11eb-9293-b06b6a0e85e0.jpg" height="600" width="800">
+
+<img src="https://user-images.githubusercontent.com/74448981/105629482-3a711a80-5e69-11eb-9293-b06b6a0e85e0.JPG" height="600" width="800">
 
