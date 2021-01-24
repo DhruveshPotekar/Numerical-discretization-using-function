@@ -8,6 +8,6 @@ I created fuctions of 1st, 2nd and 4th order of approximation and called them in
 
 
 
-The Result is
+The Result is\
 <img src="https://user-images.githubusercontent.com/74448981/105629482-3a711a80-5e69-11eb-9293-b06b6a0e85e0.jpg" height="600" width="800">
 
